@@ -14,41 +14,41 @@
 * **Maven**
 
 <p align = "center">
-<img src="https://github.com/iizdebski/examportal/blob/master/examserver/images/exam_01.JPG">
+<img src="https://github.com/iizdebski/examportal2/blob/main/examserver/images/exam_01.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/examportal/blob/master/examserver/images/exam_02.JPG">
+<img src="https://github.com/iizdebski/examportal2/blob/main/examserver/images/exam_02.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/examportal/blob/master/examserver/images/exam_03.JPG">
+<img src="https://github.com/iizdebski/examportal2/blob/main/examserver/images/exam_03.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/examportal/blob/master/examserver/images/exam_04.JPG">
+<img src="https://github.com/iizdebski/examportal2/blob/main/examserver/images/exam_04.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/examportal/blob/master/examserver/images/exam_05.JPG">
+<img src="https://github.com/iizdebski/examportal2/blob/main/examserver/images/exam_05.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/examportal/blob/master/examserver/images/exam_06.JPG">
+<img src="https://github.com/iizdebski/examportal2/blob/main/examserver/images/exam_06.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/examportal/blob/master/examserver/images/exam_07.JPG">
+<img src="https://github.com/iizdebski/examportal2/blob/main/examserver/images/exam_07.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/examportal/blob/master/examserver/images/exam_08.JPG">
+<img src="https://github.com/iizdebski/examportal2/blob/main/examserver/images/exam_08.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/examportal/blob/master/examserver/images/exam_09.JPG">
+<img src="https://github.com/iizdebski/examportal2/blob/main/examserver/images/exam_09.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/examportal/blob/master/examserver/images/exam_11.JPG">
+<img src="https://github.com/iizdebski/examportal2/blob/main/examserver/images/exam_11.JPG">
 </p>
